@@ -1,0 +1,32 @@
+{
+ "collection_id": "PLCVaVjGeO3uEabQy22jBN67mcH5LrreGF",
+ "source": "legacy-archive-snapshot",
+ "count": 5,
+ "entries": [
+  {
+   "idx": 0,
+   "ident": "5tpRZCqS1_M",
+   "label": "Signals Introduction | DSP Fundamentals - lecture 1"
+  },
+  {
+   "idx": 1,
+   "ident": "cm6IBZZ5qEk",
+   "label": "Linear Time-Invariant (LTI) Systems | DSP Fundamentals - lecture 2"
+  },
+  {
+   "idx": 2,
+   "ident": "2_175aABuzA",
+   "label": "Convolution | DSP Fundamentals - lecture 3"
+  },
+  {
+   "idx": 3,
+   "ident": "6FuWMY2GNBY",
+   "label": "Implementing Convolution | DSP Fundamentals - lecture 4 (updated)"
+  },
+  {
+   "idx": 4,
+   "ident": "eGHbtok5VzA",
+   "label": "IIR Systems | DSP Fundamentals - lecture 5"
+  }
+ ]
+}
