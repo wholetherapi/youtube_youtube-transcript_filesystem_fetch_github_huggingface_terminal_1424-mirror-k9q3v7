@@ -1,0 +1,297 @@
+{
+ "collection_id": "PLCVaVjGeO3uEabQy22jBN67mcH5LrreGF",
+ "source": "frontend-catalogue-index",
+ "count": 58,
+ "entries": [
+  {
+   "idx": 0,
+   "ident": "5tpRZCqS1_M",
+   "label": "Signals Introduction | DSP Fundamentals - lecture 1"
+  },
+  {
+   "idx": 1,
+   "ident": "cm6IBZZ5qEk",
+   "label": "Linear Time-Invariant (LTI) Systems | DSP Fundamentals - lecture 2"
+  },
+  {
+   "idx": 2,
+   "ident": "2_175aABuzA",
+   "label": "Convolution | DSP Fundamentals - lecture 3"
+  },
+  {
+   "idx": 3,
+   "ident": "6FuWMY2GNBY",
+   "label": "Implementing Convolution | DSP Fundamentals - lecture 4 (updated)"
+  },
+  {
+   "idx": 4,
+   "ident": "eGHbtok5VzA",
+   "label": "IIR Systems | DSP Fundamentals - lecture 5"
+  },
+  {
+   "idx": 5,
+   "ident": "kJvgPD0wKW4",
+   "label": "Frequency Response | DSP Fundamentals - lecture 6"
+  },
+  {
+   "idx": 6,
+   "ident": "Pm6_nuLR6_8",
+   "label": "Discrete-Time Fourier Transform (DTFT) | DSP Fundamentals - lecture 7"
+  },
+  {
+   "idx": 7,
+   "ident": "MzOYlAmcUco",
+   "label": "Discrete-time Fourier Transform (DTFT) Properties | DSP Fundamentals - lecture 8"
+  },
+  {
+   "idx": 8,
+   "ident": "oDDBogG4jfc",
+   "label": "DTFT Pairs | DSP fundamentals - lecture 9"
+  },
+  {
+   "idx": 9,
+   "ident": "ufkgDIoptmM",
+   "label": "DTFT and Difference Equations | DSP Fundamentals - lecture 10"
+  },
+  {
+   "idx": 10,
+   "ident": "MpMuFxQbCUw",
+   "label": "Random Processes | DSP Fundamentals - lecture 11"
+  },
+  {
+   "idx": 11,
+   "ident": "CJYuF5OSkzc",
+   "label": "Expectations of Random Variables | DSP Fundamentals - lecture 12"
+  },
+  {
+   "idx": 12,
+   "ident": "H3_llpXWemk",
+   "label": "Expectations of Random Variables part 2 | DSP Fundamentals - lecture 13"
+  },
+  {
+   "idx": 13,
+   "ident": "tuwcZKd_03U",
+   "label": "Estimating Random Variables | DSP Fundamentals - lecture 14"
+  },
+  {
+   "idx": 14,
+   "ident": "2UWEPe3JW6M",
+   "label": "Stationarity | DSP Fundamentals - lecture 15"
+  },
+  {
+   "idx": 15,
+   "ident": "S6i0X4iNG_I",
+   "label": "Autocorrelation and Power Spectral Density | DSP Fundamentals - lecture 16"
+  },
+  {
+   "idx": 16,
+   "ident": "5pFCtYMwXuw",
+   "label": "Filtering Random Signals | DSP Fundamentals - lecture 17"
+  },
+  {
+   "idx": 17,
+   "ident": "dqMaNBfkZMU",
+   "label": "z-Transforms Introduction | DSP Fundamentals - lecture 18"
+  },
+  {
+   "idx": 18,
+   "ident": "_7TdOrW7vXk",
+   "label": "z-Transform Pairs and Properties | DSP Fundamentals - lecture 19"
+  },
+  {
+   "idx": 19,
+   "ident": "VGC15gUteSQ",
+   "label": "Transfer Functions | DSP Fundamentals - lecture 20"
+  },
+  {
+   "idx": 20,
+   "ident": "YlLANKH6ao8",
+   "label": "Inverse z Transforms | DSP Fundamentals - lecture 21"
+  },
+  {
+   "idx": 21,
+   "ident": "m61dnKC64G4",
+   "label": "Sampling and Nyquist | DSP Fundamentals - lecture 22"
+  },
+  {
+   "idx": 22,
+   "ident": "KeBxAv1VAy0",
+   "label": "Sampling Theory | DSP Fundamentals - lecture 23"
+  },
+  {
+   "idx": 23,
+   "ident": "rxGc3WR0bJY",
+   "label": "Sampling Reconstruction | DSP Fundamentals - lecture 24"
+  },
+  {
+   "idx": 24,
+   "ident": "71MHJp0IMwc",
+   "label": "Resampling | DSP Fundamentals - lecture 25"
+  },
+  {
+   "idx": 25,
+   "ident": "QdaS8_jwusE",
+   "label": "Resampling part 2 | DSP Fundamentals - lecture 26"
+  },
+  {
+   "idx": 26,
+   "ident": "QwnJMQlrOww",
+   "label": "Quantization part 1 | DSP Fundamentals - lecture 27"
+  },
+  {
+   "idx": 27,
+   "ident": "TAMS9yBphMU",
+   "label": "Quantization part 2 | DSP Fundamentals - lecture 28"
+  },
+  {
+   "idx": 28,
+   "ident": "OschnEbYFpo",
+   "label": "Quantization SNR | DSP Fundamentals - lecture 29"
+  },
+  {
+   "idx": 29,
+   "ident": "CAOn0KcFuPs",
+   "label": "Phase Response and Group Delay | DSP Fundamentals - lecture 30"
+  },
+  {
+   "idx": 30,
+   "ident": "wfaYZsWSrh4",
+   "label": "All-pass Filters | DSP Fundamentals - lecture 31"
+  },
+  {
+   "idx": 31,
+   "ident": "DuZmDAVEL9g",
+   "label": "Minimum Phase Filters | DSP Fundamentals - lecture 32"
+  },
+  {
+   "idx": 32,
+   "ident": "OTL4RKEN7MU",
+   "label": "Signal Flowgraphs | DSP Fundamentals - lecture 33"
+  },
+  {
+   "idx": 33,
+   "ident": "jTZeIOjMHE8",
+   "label": "Filter Forms | DSP Fundamentals - lecture 34"
+  },
+  {
+   "idx": 34,
+   "ident": "SHwEXICyFrA",
+   "label": "Round off Error in Filters | DSP Fundamentals - lecture 35"
+  },
+  {
+   "idx": 35,
+   "ident": "XVkDZoDhSKI",
+   "label": "Quantizing Filter Coefficients | DSP Fundamentals - lecture 36"
+  },
+  {
+   "idx": 36,
+   "ident": "5WE85lMENOQ",
+   "label": "Filter Design Examples | DSP Fundamentals - lecture 37"
+  },
+  {
+   "idx": 37,
+   "ident": "KGTVT83MdKM",
+   "label": "Lattice Filter | DSP Fundamentals - lecture 38"
+  },
+  {
+   "idx": 38,
+   "ident": "tdZMrJgbIhs",
+   "label": "Analog Filter Transformations | DSP Fundamentals - lecture 39"
+  },
+  {
+   "idx": 39,
+   "ident": "ugFmEleJVIk",
+   "label": "Windowed Filter Design | DSP Fundamentals - lecture 40"
+  },
+  {
+   "idx": 40,
+   "ident": "FkQUP5EQgPU",
+   "label": "The Go To Filter | DSP Fundamentals - lecture 41"
+  },
+  {
+   "idx": 41,
+   "ident": "aVcBm8I-mhk",
+   "label": "DFT - The Discrete Fourier Transform | DSP Fundamentals - Lecture 42"
+  },
+  {
+   "idx": 42,
+   "ident": "6kcwuSGeDRw",
+   "label": "Fourier Periodicity | DSP Fundamentals - lecture 43"
+  },
+  {
+   "idx": 43,
+   "ident": "oUGrvToLUH0",
+   "label": "Sampling the DTFT | DSP Fundamentals - lecture 44"
+  },
+  {
+   "idx": 44,
+   "ident": "GtQ4ojImv6Q",
+   "label": "DFT Properties | DSP Fundamentals - lecture 45"
+  },
+  {
+   "idx": 45,
+   "ident": "LUysClms7Ig",
+   "label": "The Fast Fourier Transform (FFT) | DSP Fundamentals - lecture 46"
+  },
+  {
+   "idx": 46,
+   "ident": "5o7gedj7W94",
+   "label": "FFT based Convolution | DSP Fundamentals - lecture 47"
+  },
+  {
+   "idx": 47,
+   "ident": "KBv2imtthVw",
+   "label": "Block Convolution | DSP Fundamentals - lecture 48"
+  },
+  {
+   "idx": 48,
+   "ident": "DVXNSEbJcqc",
+   "label": "FFT Block Convolution | DSP Fundamentals - lecture 49"
+  },
+  {
+   "idx": 49,
+   "ident": "ygWdU9Ue21A",
+   "label": "Discrete Cosine Transform (DCT) | DSP Fundamentals - lecture 50"
+  },
+  {
+   "idx": 50,
+   "ident": "mAesEod2N9s",
+   "label": "2D DFT and DCT | DSP Fundamentals - lecture 51"
+  },
+  {
+   "idx": 51,
+   "ident": "ldArs71ich8",
+   "label": "52 - JPEG Overview"
+  },
+  {
+   "idx": 52,
+   "ident": "7JQwmP2NgEQ",
+   "label": "53 - Spectrum Analysis"
+  },
+  {
+   "idx": 53,
+   "ident": "qdH1dgd1DVU",
+   "label": "54 - Spectrum Analysis Windows"
+  },
+  {
+   "idx": 54,
+   "ident": "jH49mIlZ2x8",
+   "label": "Feature Extraction Introduction | DSP Fundamentals - lecture 55"
+  },
+  {
+   "idx": 55,
+   "ident": "rViPO3iw2gg",
+   "label": "56 - Feature Dimensionality"
+  },
+  {
+   "idx": 56,
+   "ident": "dJflNIZKmr0",
+   "label": "57 - Principal Components Analysis"
+  },
+  {
+   "idx": 57,
+   "ident": "YHWCLCGOdVM",
+   "label": "58 - Principal Components Analysis Applied"
+  }
+ ]
+}
